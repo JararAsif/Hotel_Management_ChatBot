@@ -1,7 +1,4 @@
 .env
-*.env
-*.env.*
-
 # Streamlit secrets file
 .streamlit/secrets.toml
 
@@ -42,3 +39,5 @@ source_data/
 
 # Windows
 Thumbs.db
+
+!.git.example
