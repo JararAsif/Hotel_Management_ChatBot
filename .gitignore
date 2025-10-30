@@ -2,6 +2,9 @@
 # Streamlit secrets file
 .streamlit/secrets.toml
 
+appdel.py
+ingestdel.py
+
 chroma_db/
 .chroma/
 
