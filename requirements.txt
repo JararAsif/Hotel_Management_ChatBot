@@ -1,0 +1,8 @@
+streamlit==1.30.0
+langchain==0.0.365
+chromadb==0.3.27
+openai==1.0.0
+tqdm==4.65.0
+python-dotenv==1.0.0
+pypdf==3.14.0
+typing-extensions==4.8.0

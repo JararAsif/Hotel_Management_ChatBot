@@ -1,0 +1,44 @@
+.env
+*.env
+*.env.*
+
+# Streamlit secrets file
+.streamlit/secrets.toml
+
+chroma_db/
+.chroma/
+
+venv/
+.venv/
+env/
+.env/
+.tox/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore build and distribution artifacts
+build/
+dist/
+*.egg-info/
+wheels/
+*.whl
+
+.langchain.db
+
+data/
+documents/
+source_data/
+
+.vscode/
+
+# PyCharm / IntelliJ
+.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
